@@ -17,8 +17,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camikoba&show_icons=true&count_private=true&hide_border=true&title_color=f3a8c2&icon_color=87ceeb&text_color=87ceeb&bg_color=0d1117" alt="Camila Kobayashi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camikoba&layout=compact&hide_border=true&title_color=f3a8c2&text_color=87ceeb&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camikoba&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=f3a8c2&icon_color=87ceeb&text_color=87ceeb&bg_color=0d1117" alt="Camila Kobayashi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camikoba&layout=compact&hide_border=true&title_color=f3a8c2&text_color=87ceeb&bg_color=0d1117"/>
 </div>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=camikoba&bg_color=0d1117&color=f3a8c2&line=87ceeb&point=d6dee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
