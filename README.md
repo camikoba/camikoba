@@ -21,7 +21,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camikoba&layout=compact&hide_border=true&title_color=f3a8c2&text_color=87ceeb&bg_color=0d1117" />
 </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=camikoba&bg_color=0d1117&color=f3a8c2&line=87ceeb&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=camikoba&bg_color=0d1117&color=f3a8c2&line=87ceeb&point=d6dee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=120&section=footer"/>
   
